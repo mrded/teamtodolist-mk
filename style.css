@@ -1,3 +1,7 @@
-.row {
-  background-color: #000 !important;
+main {
+  background: url('chrome-extension://__MSG_@@extension_id__/background.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
