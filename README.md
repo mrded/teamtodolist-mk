@@ -1,6 +1,7 @@
-# teamtodolist-mk
+# TeamTodoList Mortal Kombat
 Mortal Kombat theme for TeamTodoList http://teamtodolist.com
 
+## Choose your destiny
 ![Mortal Kombat theme for TeamTodoList](https://raw.githubusercontent.com/mrded/teamtodolist-mk/master/screenshot.png)
 
 ## Install
