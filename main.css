@@ -5,3 +5,13 @@ main {
   -o-background-size: cover;
   background-size: cover;
 }
+
+main h2 a {
+  color: #fff;
+}
+
+main .todo-list {
+  background-color: #515151;
+  border: 1px solid #363636;
+}
+

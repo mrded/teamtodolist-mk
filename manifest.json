@@ -6,7 +6,11 @@
   "content_scripts":[
     {
       "matches": ["http://teamtodolist.com/teams/*"],
-      "css":["style.css"]
+      "css":["main.css"]
+    },
+    {
+      "matches": ["http://teamtodolist.com/teams/*/todos/*"],
+      "css":["todos.css"]
     }
   ]
 }
